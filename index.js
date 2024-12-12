@@ -1,4 +1,5 @@
-console.log('Feature branch change');
+console.log('Resolved change combining both branches');
+
 
 
 console.log(chalk.magenta("It works"));
