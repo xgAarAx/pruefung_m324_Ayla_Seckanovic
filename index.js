@@ -1,4 +1,5 @@
-console.log('Main branch change');
+console.log('Resolved change combining both branches');
+
 
 
 console.log(chalk.magenta("It works"));
