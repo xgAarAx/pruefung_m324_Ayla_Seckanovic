@@ -1,4 +1,5 @@
-import chalk from "chalk";
+console.log('Main branch change');
+
 
 console.log(chalk.magenta("It works"));
 
