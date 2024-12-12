@@ -1,1 +1,1 @@
-# pruefung_m324_Ayla_Seckanovic
+# Prüfung M324
